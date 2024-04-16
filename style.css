@@ -56,6 +56,8 @@ nav {
 
 nav > a:hover {
     background-color:  #2FA866;
+    border-radius: 4px;
+    transition-duration: 0.4s;
 }
 
 nav > a{
